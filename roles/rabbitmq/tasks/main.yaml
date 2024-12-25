@@ -15,7 +15,7 @@
     state: restarted
     enabled: yes
 
-- name: create rabbitmq user
+- name: create user
   ansible.builtin.command: "rabbitmqctl add_user {{rq_user}} {{rq_password}}"
 
 - name: set permissions
