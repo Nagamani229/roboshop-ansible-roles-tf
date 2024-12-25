@@ -1,0 +1,13 @@
+- name: "stop {{component}}"
+  ansible.builtin.service:
+  tags:
+  - deployment
+  name: "{{component}}"
+  state: stopped
+
+- name: recursively remove app directory
+  ansible.builtin.file:
+  tags:
+  - deployment
+      path: "/app*"
+      state: absent
