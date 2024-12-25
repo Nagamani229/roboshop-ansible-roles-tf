@@ -8,3 +8,4 @@ CART_HOST: cart.devopstraining.space
 MYSQL-HOST: mysql.devopstraining.space
 RABBITMQ_HOST: rabbitmq.devopstraining.space
 DISPATCH_HOST: dispatch.devopstraining.space
+WEB_HOST: web.devopstraining.space
