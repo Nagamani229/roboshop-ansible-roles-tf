@@ -1,2 +1,3 @@
 MONGODB_HOST: mongodb.devopstraining.space
 REDIS_HOST: redis.devopstraining.space
+CATALOGUE_HOST: catalogue.devopstraining.space
