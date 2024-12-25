@@ -4,7 +4,7 @@
  #     dest: "/etc/systemd/system/{{component}}.service"
 - name: "Copy {{component}} service"
   ansible.builtin.template:
-    src: "{{component}}.servicej2"
+    src: "{{component}}.service.j2"
     dest: "/etc/systemd/system/{{component}}.service"
 
 - name: deamon realod and start
