@@ -1,0 +1,11 @@
+MONGODB_HOST: mongodb-prod.devopstraining.space
+REDIS_HOST: redis-prod.devopstraining.space
+CATALOGUE_HOST: catalogue-prod.devopstraining.space
+SHIIPPING_HOST: shipping-prod.devopstraining.space
+PAYMENT_HOST: payment-prod.devopstraining.space
+USER_HOST: user-prod.devopstraining.space
+CART_HOST: cart-prod.devopstraining.space
+MYSQL-HOST: mysql-prod.devopstraining.space
+RABBITMQ_HOST: rabbitmq-prod.devopstraining.space
+DISPATCH_HOST: dispatch-prod.devopstraining.space
+WEB_HOST: web-prod.devopstraining.space
