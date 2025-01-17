@@ -8,3 +8,4 @@ CART_HOST: cart.app-dev.devopstraining.space
 MYSQL-HOST: mysql-dev.devopstraining.space
 RABBITMQ_HOST: rabbitmq-dev.devopstraining.space
 DISPATCH_HOST: dispatch.app-dev.devopstraining.space
+NEXUS_URL: 
